@@ -1,0 +1,10 @@
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\obj\Debug\YandexSearchAPI.csprojAssemblyReference.cache
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\obj\Debug\YandexSearchAPI.Form1.resources
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\obj\Debug\YandexSearchAPI.Properties.Resources.resources
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\obj\Debug\YandexSearchAPI.csproj.GenerateResource.cache
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\obj\Debug\YandexSearchAPI.csproj.CoreCompileInputs.cache
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\bin\Debug\YandexSearchAPI.exe.config
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\bin\Debug\YandexSearchAPI.exe
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\bin\Debug\YandexSearchAPI.pdb
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\obj\Debug\YandexSearchAPI.exe
+C:\Users\ATILIM2\source\repos\YandexSearchAPI\YandexSearchAPI\obj\Debug\YandexSearchAPI.pdb
